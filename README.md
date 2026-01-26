@@ -25,6 +25,7 @@ Each file is named after the LeetCode problem for easy navigation.
 | ------- |
 | [0001-two-sum](https://github.com/hc9033/leet-code.java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hc9033/leet-code.java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hc9033/leet-code.java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hc9033/leet-code.java/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
@@ -45,5 +46,6 @@ Each file is named after the LeetCode problem for easy navigation.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hc9033/leet-code.java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hc9033/leet-code.java/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
