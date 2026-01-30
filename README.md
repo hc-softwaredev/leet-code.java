@@ -27,6 +27,7 @@ Each file is named after the LeetCode problem for easy navigation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hc9033/leet-code.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hc9033/leet-code.java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hc9033/leet-code.java/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hc9033/leet-code.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/hc9033/leet-code.java/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/hc9033/leet-code.java/tree/master/0704-binary-search) |
@@ -50,4 +51,8 @@ Each file is named after the LeetCode problem for easy navigation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hc9033/leet-code.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hc9033/leet-code.java/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hc9033/leet-code.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
