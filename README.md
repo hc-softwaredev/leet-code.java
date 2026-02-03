@@ -52,6 +52,7 @@ Each file is named after the LeetCode problem for easy navigation.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hc9033/leet-code.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hc9033/leet-code.java/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/hc9033/leet-code.java/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/hc9033/leet-code.java/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -69,4 +70,8 @@ Each file is named after the LeetCode problem for easy navigation.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hc9033/leet-code.java/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/hc9033/leet-code.java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
